@@ -17,6 +17,7 @@
 - INNER JOIN, LEFT JOIN, RIGHT JOIN (simulated)
 - Aggregate functions: SUM(), AVG()
 - Subqueries and views for analysis
+- Index Optimization
 
 ## Sample Analyses
 - Total sales by category
